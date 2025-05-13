@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: i18n-service
+  name: n8n-service
 spec:
   selector:
-    app: i18n
+    app: n8n
   ports:
     - protocol: TCP
       port: 8080

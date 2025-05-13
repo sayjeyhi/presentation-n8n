@@ -1,56 +1,4 @@
 
-# What is N8N?
-
-<div class="grid grid-cols-2 gap-x-4">
-<div>
-
-- N8N stands for "Node-Node"
-
-- Open-source workflow automation tool
-
-- Alternative to Zapier, Make.com
-
-- Supports over 300 integrations and growing
-
-- Can be self-hosted or cloud-based
-
-</div>
-<div>
-<img src="https://cdn.n8n.io/app/uploads/2023/07/n8n-social-preview.png" class="h-60 rounded shadow" />
-</div>
-</div>
-
----
-
-# How N8N Works
-
-<div class="grid grid-cols-2 gap-4">
-<div>
-
-<v-clicks>
-
-### Workflow Triggers
-- Button clicks
-- Chat messages
-- Form submissions
-- Webhooks
-- Scheduled events
-
-### Data Flow
-- Input → Process → Output
-- Transform data between steps
-- Built-in `$fromAI` function
-- Variables for dynamic data
-
-</v-clicks>
-
-</div>
-<div>
-<img v-click src="https://docs.n8n.io/img/workflows/editor-overview.png" class="h-60 rounded shadow" />
-</div>
-</div>
-
----
 
 # Core Features
 
@@ -59,17 +7,7 @@
 
 <v-clicks>
 
-### Data Operations
-- Filter nodes
-- Switch routing
-- Merge multiple streams
 
-### Common Integrations
-- Google Sheets
-- Calendar apps
-- CRM systems
-- Email services
-- Chat platforms
 
 </v-clicks>
 
